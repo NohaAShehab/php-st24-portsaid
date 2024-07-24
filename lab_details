@@ -1,0 +1,9 @@
+1- implement form in slide 44 in day03 pdf
+2- add validation on name, email , password , confirmpassword
+    name: required
+    email: required and valid
+    password : minlength =8 ,
+    password, cofirmpassword  the same
+
+3- when you submit form --> upload image
+and display registered user with his info and image.
